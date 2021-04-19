@@ -9,3 +9,6 @@ Till now, i have tried to understand..
 1. CHALK is on the way
 
 Here i am writing all in the same number but it will automatically convert to increasing order, which is done by markdown
+
+
+** by the way git is a powerful tool
